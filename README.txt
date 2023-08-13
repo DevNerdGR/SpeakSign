@@ -10,6 +10,7 @@
 
 ===========================================================
 SpeakSign, formerly speakNsign, version 2.0, Rewrite Stable Demo Release
+Rewrite of SpeakSign, formerly speakNsign (and now broken): https://github.com/DevNerdGR/speakNsign
 
 Version released on 13/8/2023
 ===========================================================
