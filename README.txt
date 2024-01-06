@@ -51,6 +51,7 @@ Usage:
 Techincal specifications:
 This app was built using Microsoft's .NET framework, and is written in C#.
 The STT feature utilises the python libraries PyAudio and SpeechRegonition to provide STT capabilities.
+Source code: https://github.com/DevNerdGR/speakNsign-source
 ==========================================================
 Credits:
 App designer/programmer: Tew Gun Rui
@@ -58,3 +59,6 @@ Robotic hand design/programming: Logan Wong Duran
 ASL research & overall coordinator: Darur Mithil
 ==========================================================
 Thank you for trying out our project!
+
+
+
